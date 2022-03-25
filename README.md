@@ -1,6 +1,6 @@
-#SSH Server p/ Windows 10 y superiores
+# SSH Server p/ Windows 10 y superiores
 
-##How-to
+## How-to
 
 Acceder a la máquina y loguear en el usuario administrador
 Ejecutar PowerShell como Administrador
